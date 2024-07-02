@@ -1,4 +1,4 @@
-# Salaries_Data_set_graph
+# Salaries_Dataset_graph
 matplotlib graph that shows salaries by experience level
 
 # Necessary Libraries:
